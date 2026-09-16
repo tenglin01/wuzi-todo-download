@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/icon.png" width="112" alt="五子 Todo 猫咪图标">
+<img src="assets/wuzi-icon-current.png" width="112" alt="五子 Todo 猫咪图标">
 
 # 五子 Todo
 
